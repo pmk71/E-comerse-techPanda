@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="org.techpanda.generic.ITestListenerImp"/>
+    <listener class-name="org.techpanda.generic.AnnotationTransfer"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="org.techpanda.testscrits.TestCreateAccount">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="enterUrl"/>
+          <include name="createAccountAndShareWhishList"/>
+        </methods>
+      </class> <!-- org.techpanda.testscrits.TestCreateAccount -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[* The maximum quantity allowed for purchase is 500.]]>
+    </line>
+    <line>
+      <![CDATA[You have no items in your shopping cart.]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-09T10:04:28 IST" name="Suite" finished-at="2023-07-09T10:04:50 IST" duration-ms="21476">
+    <groups>
+    </groups>
+    <test started-at="2023-07-09T10:04:28 IST" name="Test" finished-at="2023-07-09T10:04:50 IST" duration-ms="21476">
+      <class name="org.techpanda.testscrits.TestMobile">
+        <test-method is-config="true" signature="lauchBrowser()[pri:0, instance:org.techpanda.testscrits.TestMobile@7e5c856f]" started-at="2023-07-09T10:04:28 IST" name="lauchBrowser" finished-at="2023-07-09T10:04:37 IST" duration-ms="8599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchBrowser -->
+        <test-method signature="testMobileList()[pri:1, instance:org.techpanda.testscrits.TestMobile@7e5c856f]" started-at="2023-07-09T10:04:37 IST" name="testMobileList" finished-at="2023-07-09T10:04:39 IST" duration-ms="2724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMobileList -->
+        <test-method signature="testPrice()[pri:2, instance:org.techpanda.testscrits.TestMobile@7e5c856f]" started-at="2023-07-09T10:04:39 IST" name="testPrice" finished-at="2023-07-09T10:04:43 IST" duration-ms="3397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPrice -->
+        <test-method signature="testQtyCart()[pri:3, instance:org.techpanda.testscrits.TestMobile@7e5c856f]" started-at="2023-07-09T10:04:43 IST" name="testQtyCart" finished-at="2023-07-09T10:04:48 IST" duration-ms="5253" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[* The maximum quantity allowed for purchase is 500.]]>
+            </line>
+            <line>
+              <![CDATA[You have no items in your shopping cart.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testQtyCart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.techpanda.testscrits.TestMobile@7e5c856f]" started-at="2023-07-09T10:04:48 IST" name="closeBrowser" finished-at="2023-07-09T10:04:50 IST" duration-ms="1466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- org.techpanda.testscrits.TestMobile -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
