@@ -14,33 +14,12 @@
       <![CDATA[Thank you for registering with Main Website Store.]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-07-11T15:51:11 IST" name="Suite" finished-at="2023-07-11T15:52:19 IST" duration-ms="68102">
+  <suite started-at="2023-07-19T16:19:49 NPT" name="Suite" finished-at="2023-07-19T16:22:24 NPT" duration-ms="155357">
     <groups>
     </groups>
-    <test started-at="2023-07-11T15:51:11 IST" name="Test" finished-at="2023-07-11T15:52:19 IST" duration-ms="68102">
+    <test started-at="2023-07-19T16:19:49 NPT" name="Test" finished-at="2023-07-19T16:22:24 NPT" duration-ms="155357">
       <class name="org.techpanda.testscrits.TestData">
-        <test-method signature="printData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.techpanda.testscrits.TestData@64a40280]" started-at="2023-07-11T15:51:43 IST" name="printData" data-provider="ll" finished-at="2023-07-11T15:51:43 IST" duration-ms="15" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[d]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[e]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[f]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- printData -->
-        <test-method signature="printData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.techpanda.testscrits.TestData@64a40280]" started-at="2023-07-11T15:51:43 IST" name="printData" data-provider="ll" finished-at="2023-07-11T15:51:43 IST" duration-ms="0" status="PASS">
+        <test-method signature="printData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.techpanda.testscrits.TestData@427b5f92]" started-at="2023-07-19T16:21:31 NPT" name="printData" data-provider="ll" finished-at="2023-07-19T16:21:31 NPT" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -61,28 +40,28 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- printData -->
-        <test-method signature="printData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.techpanda.testscrits.TestData@64a40280]" started-at="2023-07-11T15:51:43 IST" name="printData" data-provider="ll" finished-at="2023-07-11T15:51:43 IST" duration-ms="0" status="PASS">
+        <test-method signature="printData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.techpanda.testscrits.TestData@427b5f92]" started-at="2023-07-19T16:21:32 NPT" name="printData" data-provider="ll" finished-at="2023-07-19T16:21:32 NPT" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[j]]>
+                <![CDATA[d]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[k]]>
+                <![CDATA[e]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[l]]>
+                <![CDATA[f]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- printData -->
-        <test-method signature="printData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.techpanda.testscrits.TestData@64a40280]" started-at="2023-07-11T15:51:43 IST" name="printData" data-provider="ll" finished-at="2023-07-11T15:51:43 IST" duration-ms="0" status="PASS">
+        <test-method signature="printData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.techpanda.testscrits.TestData@427b5f92]" started-at="2023-07-19T16:21:32 NPT" name="printData" data-provider="ll" finished-at="2023-07-19T16:21:32 NPT" duration-ms="3" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -103,21 +82,42 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- printData -->
+        <test-method signature="printData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:org.techpanda.testscrits.TestData@427b5f92]" started-at="2023-07-19T16:21:32 NPT" name="printData" data-provider="ll" finished-at="2023-07-19T16:21:32 NPT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[j]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[k]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[l]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printData -->
       </class> <!-- org.techpanda.testscrits.TestData -->
       <class name="org.techpanda.testscrits.TestMobile">
-        <test-method is-config="true" signature="enterUrl()[pri:0, instance:org.techpanda.testscrits.TestMobile@7fb95505]" started-at="2023-07-11T15:51:12 IST" name="enterUrl" finished-at="2023-07-11T15:51:22 IST" duration-ms="10647" status="PASS">
+        <test-method is-config="true" signature="enterUrl()[pri:0, instance:org.techpanda.testscrits.TestMobile@2c104774]" started-at="2023-07-19T16:19:51 NPT" name="enterUrl" finished-at="2023-07-19T16:20:47 NPT" duration-ms="56227" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- enterUrl -->
-        <test-method signature="testMobileList()[pri:1, instance:org.techpanda.testscrits.TestMobile@7fb95505]" started-at="2023-07-11T15:51:22 IST" name="testMobileList" finished-at="2023-07-11T15:51:26 IST" duration-ms="3450" status="PASS">
+        <test-method signature="testMobileList()[pri:1, instance:org.techpanda.testscrits.TestMobile@2c104774]" started-at="2023-07-19T16:20:47 NPT" name="testMobileList" finished-at="2023-07-19T16:20:57 NPT" duration-ms="10440" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testMobileList -->
-        <test-method signature="testPrice()[pri:2, instance:org.techpanda.testscrits.TestMobile@7fb95505]" started-at="2023-07-11T15:51:26 IST" name="testPrice" finished-at="2023-07-11T15:51:30 IST" duration-ms="4042" status="PASS">
+        <test-method signature="testPrice()[pri:2, instance:org.techpanda.testscrits.TestMobile@2c104774]" started-at="2023-07-19T16:20:58 NPT" name="testPrice" finished-at="2023-07-19T16:21:03 NPT" duration-ms="4951" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPrice -->
-        <test-method signature="testQtyCart()[pri:3, instance:org.techpanda.testscrits.TestMobile@7fb95505]" started-at="2023-07-11T15:51:30 IST" name="testQtyCart" finished-at="2023-07-11T15:51:35 IST" duration-ms="5534" status="PASS">
+        <test-method signature="testQtyCart()[pri:3, instance:org.techpanda.testscrits.TestMobile@2c104774]" started-at="2023-07-19T16:21:03 NPT" name="testQtyCart" finished-at="2023-07-19T16:21:12 NPT" duration-ms="9942" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[* The maximum quantity allowed for purchase is 500.]]>
@@ -127,40 +127,40 @@
             </line>
           </reporter-output>
         </test-method> <!-- testQtyCart -->
-        <test-method signature="testComparision()[pri:4, instance:org.techpanda.testscrits.TestMobile@7fb95505]" started-at="2023-07-11T15:51:35 IST" name="testComparision" finished-at="2023-07-11T15:51:41 IST" duration-ms="5304" status="PASS">
+        <test-method signature="testComparision()[pri:4, instance:org.techpanda.testscrits.TestMobile@2c104774]" started-at="2023-07-19T16:21:13 NPT" name="testComparision" finished-at="2023-07-19T16:21:26 NPT" duration-ms="13693" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testComparision -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.techpanda.testscrits.TestMobile@7fb95505]" started-at="2023-07-11T15:51:41 IST" name="closeBrowser" finished-at="2023-07-11T15:51:43 IST" duration-ms="1846" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.techpanda.testscrits.TestMobile@2c104774]" started-at="2023-07-19T16:21:26 NPT" name="closeBrowser" finished-at="2023-07-19T16:21:31 NPT" duration-ms="5132" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- org.techpanda.testscrits.TestMobile -->
       <class name="org.techpanda.testscrits.TestCreateAccount">
-        <test-method is-config="true" signature="enterUrl()[pri:0, instance:org.techpanda.testscrits.TestCreateAccount@4b40f651]" started-at="2023-07-11T15:51:43 IST" name="enterUrl" finished-at="2023-07-11T15:51:51 IST" duration-ms="8790" status="PASS">
+        <test-method is-config="true" signature="enterUrl()[pri:0, instance:org.techpanda.testscrits.TestCreateAccount@24bdb479]" started-at="2023-07-19T16:21:32 NPT" name="enterUrl" finished-at="2023-07-19T16:21:50 NPT" duration-ms="18133" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- enterUrl -->
-        <test-method retried="true" signature="createAccountAndShareWhishList()[pri:1, instance:org.techpanda.testscrits.TestCreateAccount@4b40f651]" started-at="2023-07-11T15:51:51 IST" name="createAccountAndShareWhishList" finished-at="2023-07-11T15:52:08 IST" duration-ms="16503" status="SKIP">
+        <test-method retried="true" signature="createAccountAndShareWhishList()[pri:1, instance:org.techpanda.testscrits.TestCreateAccount@24bdb479]" started-at="2023-07-19T16:21:50 NPT" name="createAccountAndShareWhishList" finished-at="2023-07-19T16:22:08 NPT" duration-ms="18415" status="SKIP">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[Unable to locate element: //span[text()='Share Wishlist']
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'PRASHANTH', ip: '192.168.0.153', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+System info: host: 'DELL-PC', ip: '192.168.0.148', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '17.0.7'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 115.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230706202047, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 35804, moz:profile: C:\Users\PRASHA~1\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: de3433eb-b2f6-42ea-8ede-4c1de6e3e890
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 115.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230706202047, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 6.1, moz:processID: 5256, moz:profile: C:\Users\Selenium\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f47e01ae-190c-4d7f-8002-824977c71651
 *** Element info: {Using=xpath, value=//span[text()='Share Wishlist']}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: //span[text()='Share Wishlist']
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'PRASHANTH', ip: '192.168.0.153', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.7'
+System info: host: 'DELL-PC', ip: '192.168.0.148', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '17.0.7'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 115.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230706202047, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 35804, moz:profile: C:\Users\PRASHA~1\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: de3433eb-b2f6-42ea-8ede-4c1de6e3e890
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 115.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20230706202047, moz:geckodriverVersion: 0.33.0, moz:headless: false, moz:platformVersion: 6.1, moz:processID: 5256, moz:profile: C:\Users\Selenium\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f47e01ae-190c-4d7f-8002-824977c71651
 *** Element info: {Using=xpath, value=//span[text()='Share Wishlist']}
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
@@ -219,14 +219,14 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
             </line>
           </reporter-output>
         </test-method> <!-- createAccountAndShareWhishList -->
-        <test-method signature="createAccountAndShareWhishList()[pri:1, instance:org.techpanda.testscrits.TestCreateAccount@4b40f651]" started-at="2023-07-11T15:52:08 IST" name="createAccountAndShareWhishList" finished-at="2023-07-11T15:52:17 IST" duration-ms="9016" status="PASS">
+        <test-method signature="createAccountAndShareWhishList()[pri:1, instance:org.techpanda.testscrits.TestCreateAccount@24bdb479]" started-at="2023-07-19T16:22:08 NPT" name="createAccountAndShareWhishList" finished-at="2023-07-19T16:22:21 NPT" duration-ms="12734" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Thank you for registering with Main Website Store.]]>
             </line>
           </reporter-output>
         </test-method> <!-- createAccountAndShareWhishList -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.techpanda.testscrits.TestCreateAccount@4b40f651]" started-at="2023-07-11T15:52:17 IST" name="closeBrowser" finished-at="2023-07-11T15:52:19 IST" duration-ms="2498" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.techpanda.testscrits.TestCreateAccount@24bdb479]" started-at="2023-07-19T16:22:21 NPT" name="closeBrowser" finished-at="2023-07-19T16:22:24 NPT" duration-ms="3194" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
